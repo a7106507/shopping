@@ -1,0 +1,4 @@
+html{font-size:27.78vw;}
+*{margin:0;padding:0;}
+li{list-style:none;}/*去除列表符号*/
+a{text-decoration:none;}/*去除下划线*/

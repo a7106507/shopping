@@ -1,0 +1,36 @@
+.home-new-list{
+    padding-bottom:.5rem; 
+}
+.home-new-list h3{
+    font-size: .18rem;
+    line-height: .5rem;
+    font-weight:100;
+    color: #ff5000;
+    text-align:center;
+}
+.home-new-list ul{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+}
+.home-new-list ul li a{
+    display: block;
+    display:flex;
+    flex-direction: column;
+}
+.home-new-list ul li img{
+    width:1.76rem;
+    height:1.76rem;
+}
+.home-new-list ul li p{
+    width:1.76rem;
+    font-size: .12rem;
+    height:.24rem;
+    line-height:.24rem;
+    overflow: hidden;
+    color: #666;
+}
+.home-new-list ul li span{
+    color: #ff480a;
+    font-size:.14rem;
+}

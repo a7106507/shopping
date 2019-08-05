@@ -1,0 +1,25 @@
+.nav-icon{
+    color:#666;
+    padding:.1rem 0;
+    width:100%;
+    height:1.4rem;
+}
+.nav-icon ul{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+.nav-icon ul li{
+    padding: .05rem 0;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    width: .8rem;
+    height: .6rem;
+    font-size:.12rem;
+    line-height: .24rem;
+}
+.nav-icon ul li img{
+    width:.4rem;
+    height: .4rem;
+}

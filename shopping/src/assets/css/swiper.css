@@ -1,0 +1,9 @@
+.swiper{
+    padding-top: .5rem;
+  }
+.carousel img{
+    display: block;
+    height: 1.75rem;
+    line-height: 1.75rem;
+    text-align: center;
+  }
